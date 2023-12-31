@@ -1,5 +1,5 @@
 ## Database Schema Migration with NodeJs
- **Description:** Sample collections of database migration scripts to use them in projects.
+ **Description:** Sample of database migration process to use them in real projects.
  
  **Tech Stack:**
   - Nodejs
